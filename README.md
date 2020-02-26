@@ -1,8 +1,8 @@
-# Breakout-clone-unity
+# Breakout-clone-unity 打磚塊
 
-高中畢業的 Unity 小遊戲實作
+#高中畢業的 Unity 小遊戲實作
 
-透過C#語言 以及 Unity 遊戲引擎開發
+#透過C#語言 以及 Unity 遊戲引擎開發
 
 共分為四個部分：
 (可直接查看/video 裡面的遊戲影片)
